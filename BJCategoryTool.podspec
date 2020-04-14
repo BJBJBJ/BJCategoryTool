@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "BJCategoryTool"
-  s.version      = "1.0.2"
+  s.version      = "1.0.3"
   s.summary      = "项目中常用的工具分类."
 
   # This description is used to generate tags and improve search results.
